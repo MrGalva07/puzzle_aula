@@ -1,0 +1,82 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    
+}
+    
+.oito{
+    color: red;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    margin: 4px;
+}
+.P{
+    color: green;
+}
+.U{
+    color: blue;
+}
+.Z1{
+    color: yellow;
+}
+.Z2{
+    color: red;
+}
+.E{
+    color: blueviolet;
+}
+
+table{
+    margin-top: 50px auto;
+    font-size: 100px;
+    background-color: grey;
+    padding: 10px;
+    border-spacing: 10px;
+}
+tr{
+    color: white;
+   
+    
+}
+td{
+    border: solid;
+    border-color: rgb(54, 51, 51);
+    padding: 10px;
+}
+.numero_8{
+    background-color: orange;
+}
+.numero_4{
+    background-color: red;
+}
+.numero_1{
+    background-color: purple;
+}
+.numero_7{
+    background-color: green;
+}
+.numero_vazio{
+    background-color: black;
+}
+.numero_2{
+    background-color: salmon;
+}
+.numero_3{
+    background-color: blue;
+}
+.numero_5{
+    background-color: yellow;
+}
+.numero_6{
+    background-color: gray;
+}
